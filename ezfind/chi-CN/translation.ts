@@ -22,7 +22,7 @@
     </message>
     <message>
         <source>The following words were excluded from the search</source>
-        <translation type="unfinished">以下词被搜索除非了</translation>
+        <translation type="unfinished">以下词被搜索排除了</translation>
     </message>
     <message>
         <source>No results were found while searching for &lt;%1&gt;</source>
@@ -46,130 +46,130 @@
     </message>
     <message>
         <source>Fewer keywords result in more matches. Try reducing keywords until you get a result.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">关键字太多导致结果很少。试试减少关键字直到你得到结果为止。</translation>
     </message>
     <message>
         <source>Search for &lt;%1&gt; returned %2 matches</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索&lt;%1&gt;返回%2个匹配</translation>
     </message>
 </context>
 <context>
     <name>design/admin/node/view/full</name>
     <message>
         <source>Show 10 items per page.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">每页显示10个</translation>
     </message>
     <message>
         <source>Show 50 items per page.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">每页显示50个</translation>
     </message>
     <message>
         <source>Show 25 items per page.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">每页显示25个</translation>
     </message>
 </context>
 <context>
     <name>design/admin/pagelayout</name>
     <message>
         <source>Search in all content</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在所有内容搜索</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">高级</translation>
     </message>
     <message>
         <source>Search in &apos;%node&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在&apos;%node&apos;搜索</translation>
     </message>
     <message>
         <source>Advanced search.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">高级搜索。</translation>
     </message>
 </context>
 <context>
     <name>design/base</name>
     <message>
         <source>The following words were excluded from the search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">以下词被搜索排除了</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索</translation>
     </message>
     <message>
         <source>For more options try the %1Advanced search%2</source>
         <comment>The parameters are link start and end tags.</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">想要更多选择，试试%1高级搜索%2</translation>
     </message>
     <message>
         <source>No results were found when searching for &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索&lt;%1&gt;时没有发现结果</translation>
     </message>
     <message>
         <source>Search tips</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索提示</translation>
     </message>
     <message>
         <source>Check spelling of keywords.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">检查关键字的拼写。</translation>
     </message>
     <message>
         <source>Try changing some keywords eg. car instead of cars.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">试试更改一些关键字，例如&amp;quot;car&amp;quot; 而不是 &amp;quot;cars&amp;quot;。</translation>
     </message>
     <message>
         <source>Try more general keywords.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">试试更通用的关键字。</translation>
     </message>
     <message>
         <source>Fewer keywords gives more results, try reducing keywords until you get a result.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">关键字太多导致结果很少。试试减少关键字直到你得到结果为止。</translation>
     </message>
     <message>
         <source>Search for &quot;%1&quot; returned %2 matches</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索&quot;%1&quot;返回%2个匹配</translation>
     </message>
 </context>
 <context>
     <name>design/ezfind/search</name>
     <message>
         <source>The search is case insensitive. Upper and lower case characters may be used.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本搜索是大小不敏感的，大写和小写都可使用。</translation>
     </message>
     <message>
         <source>The search result contains all search terms.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索结果包含所有搜索项。</translation>
     </message>
     <message>
         <source>Spell check suggestion: did you mean</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">拼写检查：你是指</translation>
     </message>
     <message>
         <source>Phrase search can be achieved by using quotes, example: &quot;Quick brown fox jumps over the lazy dog&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用引号可以搜索句子，例如：&quot;快粽熊跳过懒狗&quot;</translation>
     </message>
     <message>
         <source>Words may be excluded by using a minus ( - ) character, example: lazy -dog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">通过使用中间符(-),某此字可以被排除，例如：懒-狗</translation>
     </message>
 </context>
 <context>
     <name>design/ezflow/block/search</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/content/search</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索</translation>
     </message>
     <message>
         <source>For more options try the %1Advanced search%2</source>
