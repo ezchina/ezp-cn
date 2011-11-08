@@ -190,7 +190,7 @@
     </message>
     <message>
         <source>Try changing some keywords (eg, &quot;car&quot; instead of &quot;cars&quot;).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">试试更改一些关键字，例如&amp;quot;car&amp;quot; 而不是 &amp;quot;cars&amp;quot;。</translation>
     </message>
     <message>
         <source>Try searching with less specific keywords.</source>
