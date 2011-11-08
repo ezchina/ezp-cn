@@ -174,15 +174,15 @@
     <message>
         <source>For more options try the %1Advanced search%2</source>
         <comment>The parameters are link start and end tags.</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">想要更多选择，试试%1高级搜索%2</translation>
     </message>
     <message>
         <source>No results were found when searching for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索&lt;%1&gt;时没有发现结果</translation>
     </message>
     <message>
         <source>Search tips</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索提示</translation>
     </message>
     <message>
         <source>Check spelling of keywords.</source>
