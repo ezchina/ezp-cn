@@ -5,44 +5,44 @@
     <name>design/admin/content/search</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索</translation>
     </message>
     <message>
         <source>All content</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">所有内容</translation>
     </message>
     <message>
         <source>The same location</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">同样位置</translation>
     </message>
     <message>
         <source>For more options try the %1Advanced search%2.</source>
         <comment>The parameters are link start and end tags.</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">想要更多选择，试试%1高级搜索%2</translation>
     </message>
     <message>
         <source>The following words were excluded from the search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">以下词被搜索除非了</translation>
     </message>
     <message>
         <source>No results were found while searching for &lt;%1&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索&lt;%1&gt;时没有发现结果</translation>
     </message>
     <message>
         <source>Search tips</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索提示</translation>
     </message>
     <message>
         <source>Check spelling of keywords.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">检查关键字的拼写。</translation>
     </message>
     <message>
         <source>Try changing some keywords e.g. &amp;quot;car&amp;quot; instead of &amp;quot;cars&amp;quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">试试更改一些关键字，例如&amp;quot;car&amp;quot; 而不是 &amp;quot;cars&amp;quot;。</translation>
     </message>
     <message>
         <source>Try more general keywords.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">试试更通用的关键字。</translation>
     </message>
     <message>
         <source>Fewer keywords result in more matches. Try reducing keywords until you get a result.</source>
