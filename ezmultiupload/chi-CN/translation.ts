@@ -32,7 +32,7 @@
     </message>
     <message>
         <source>All files received.</source>
-        <translation type="">所有文件已收到。</translation>
+        <translation type="">所有文件已接收。</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -48,11 +48,11 @@
     </message>
     <message>
         <source>Could not load flash(or not loaded yet), this is needed for multiupload!</source>
-        <translation type="">无法加载flash（或者还尚未加载），多文件上传需要加载flash！</translation>
+        <translation type="">无法加载flash（或者还尚未加载），多文件上传功能需要使用flash！</translation>
     </message>
     <message>
         <source>Javascript has been disabled, this is needed for multiupload!</source>
-        <translation type="">Javascript已经被禁用，多文件上传需要Javascript！</translation>
+        <translation type="">Javascript已被禁用，多文件上传功能需要使用Javascript！</translation>
     </message>
 </context>
 </TS>
